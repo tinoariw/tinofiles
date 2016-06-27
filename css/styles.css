@@ -1,0 +1,9 @@
+/* -- Banner Area -- */
+.BannerBlock {
+	background: url(../images/negative-space.jpg) no-repeat;
+	background-size: cover;
+	-moz-background-size: cover;
+	-webkit-background-size: cover;
+	width: 100%;
+	height: 100vh;
+}
